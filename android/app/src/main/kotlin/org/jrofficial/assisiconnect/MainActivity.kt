@@ -1,4 +1,4 @@
-package com.example.assisi_connect
+package org.jrofficial.assisiconnect
 
 import io.flutter.embedding.android.FlutterActivity
 
